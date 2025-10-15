@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Asha Reddy", "age": 29, "contact": "+91-9876543210", "address": "Hyderabad", "notes": "Diabetic" },
+  { "id": 2, "name": "Ramesh Kumar", "age": 42, "contact": "+91-9123456780", "address": "Secunderabad", "notes": "High BP" },
+  { "id": 3, "name": "Sita Devi", "age": 36, "contact": "+91-9988776655", "address": "Vijayawada", "notes": "Asthma" },
+  { "id": 4, "name": "Kiran Rao", "age": 50, "contact": "+91-9001122334", "address": "Warangal", "notes": "Regular checkups" },
+  { "id": 5, "name": "Anjali Sharma", "age": 33, "contact": "+91-9012345678", "address": "Hyderabad", "notes": "Vitamin D deficiency" },
+  { "id": 6, "name": "Manoj Singh", "age": 45, "contact": "+91-9123456789", "address": "Nizamabad", "notes": "Allergic to penicillin" },
+  { "id": 7, "name": "Lakshmi Naidu", "age": 38, "contact": "+91-9876123450", "address": "Guntur", "notes": "Pregnancy checkup" },
+  { "id": 8, "name": "Praveen Kumar", "age": 55, "contact": "+91-9988771122", "address": "Khammam", "notes": "Heart patient" },
+  { "id": 9, "name": "Neha Reddy", "age": 27, "contact": "+91-9009876543", "address": "Hyderabad", "notes": "Routine checkup" },
+  { "id": 10, "name": "Vikram Singh", "age": 40, "contact": "+91-9011223344", "address": "Siddipet", "notes": "High cholesterol" },
+  { "id": 11, "name": "Shwetha Rao", "age": 31, "contact": "+91-9122334455", "address": "Karimnagar", "notes": "Migraine" },
+  { "id": 12, "name": "Rajesh Kumar", "age": 47, "contact": "+91-9988112233", "address": "Medak", "notes": "Back pain" }
+]
