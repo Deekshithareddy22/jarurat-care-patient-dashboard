@@ -33,3 +33,7 @@ markdowm
 ![Home](screenshots/Home.png)
 ![Patients](screenshots/Patients.png)
 ![About](screenshots/AddnewpatientAbout.png)
+
+## 🌍 Live Demo
+
+[View Dashboard](https://jarurat-care-patient-dashboard.vercel.app)
